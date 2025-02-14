@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/preview.webp"/>
+	<img src="assets/p10k-stacked.webp"/>
 </p>
 
 ## Previews
@@ -60,7 +60,7 @@ source ~/.config/zsh/catppuccin-macchiato.zsh
 
 ## 💝 Thanks to
 
-- [Your name](https://github.com/spencerfrost)
+- [Spencer Frost](https://github.com/spencerfrost)
 
 &nbsp;
 
