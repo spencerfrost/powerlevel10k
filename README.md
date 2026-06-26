@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/spencerfrost/powerlevel10k/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/powerlevel10k?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/spencerfrost/powerlevel10k/issues"><img src="https://img.shields.io/github/issues/catppuccin/powerlevel10k?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/spencerfrost/powerlevel10k/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/powerlevel10k?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/spencerfrost/powerlevel10k/stargazers"><img src="https://img.shields.io/github/stars/spencerfrost/powerlevel10k?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/spencerfrost/powerlevel10k/issues"><img src="https://img.shields.io/github/issues/spencerfrost/powerlevel10k?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/spencerfrost/powerlevel10k/contributors"><img src="https://img.shields.io/github/contributors/spencerfrost/powerlevel10k?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -38,8 +38,8 @@
 
 1. Download your preferred theme variant:
 ```sh
-# Example for macchiato
-curl -o ~/.config/zsh/themes/catppuccin/macchiato.zsh https://raw.githubusercontent.com/catppuccin/powerlevel10k/main/themes/macchiato.zsh
+# Example for macchiatto
+curl -o ~/.config/zsh/themes/catppuccin/macchiatto.zsh https://raw.githubusercontent.com/spencerfrost/powerlevel10k/main/themes/macchiatto.zsh
 ```
 
 2. Source it in your `~/.p10k.zsh`:
