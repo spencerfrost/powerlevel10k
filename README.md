@@ -39,12 +39,12 @@
 1. Download your preferred theme variant:
 ```sh
 # Example for macchiato
-curl -o ~/.config/zsh/catppuccin-macchiato.zsh https://raw.githubusercontent.com/catppuccin/powerlevel10k/main/themes/macchiato.zsh
+curl -o ~/.config/zsh/themes/catppuccin/macchiato.zsh https://raw.githubusercontent.com/catppuccin/powerlevel10k/main/themes/macchiato.zsh
 ```
 
 2. Source it in your `~/.p10k.zsh`:
 ```sh
-source ~/.config/zsh/catppuccin-macchiato.zsh
+source ~/.config/zsh/themes/catppuccin/macchiato.zsh
 ```
 
 ## 🙋 FAQ
